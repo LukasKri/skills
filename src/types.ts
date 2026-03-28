@@ -15,6 +15,7 @@ export type AgentType =
   | 'cursor'
   | 'deepagents'
   | 'droid'
+  | 'firebender'
   | 'gemini-cli'
   | 'github-copilot'
   | 'goose'
